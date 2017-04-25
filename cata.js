@@ -1,3 +1,5 @@
+//test file for training an neural network
+
 var _ = require('underscore');
 var synaptic = require('synaptic');
 var fs = require('fs');
