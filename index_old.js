@@ -1,3 +1,4 @@
+//this is an old file
 var _ = require('underscore');
 var synaptic = require('synaptic')
 var input = new synaptic.Layer(2); // Two inputs
